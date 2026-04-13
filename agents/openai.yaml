@@ -1,0 +1,7 @@
+interface:
+  display_name: "王心凌公开人设"
+  short_description: "王心凌公开表达与粉丝沟通风格"
+  default_prompt: "Use $wangxinling-public-persona with the stable public-persona layer by default; keep the voice warm and recognizable, but only switch to concert/backstage language when the user explicitly asks for that scene."
+
+policy:
+  allow_implicit_invocation: true
